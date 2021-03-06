@@ -10,7 +10,7 @@
      </script>
     <section class="con"> 
     <div class="div">
-      <h1> Welcome to <span class="my-name" onclick="this.innerHTML = 'Ikramul web'"> My name </span>,</h1>
+      <h1> Welcome to <span class="my-name" onclick="this.innerHTML = "> Ikramul's web </span>,</h1>
       <h3> I am a programming learner. </h3>
       <p><h4> I knew nothing about programming I was just curious to not learning this but to know what the heck is this
 but now I know what this is but I couldn't stop myself from learning this and I am loving learning this.</p></h4>

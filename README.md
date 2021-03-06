@@ -14,7 +14,6 @@
       <h3> I am a programming learner. </h3>
       <p><h4> I knew nothing about programming I was just curious to not learning this but to know what the heck is this
 but now I know what this is but I couldn't stop myself from learning this and I am loving learning this.</p></h4>
-      <a class="button"<a href="https://www.linkedin.com/in/ikram/"> Hire me </a></a>
       </div>
     </select>
     <section class="con">
